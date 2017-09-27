@@ -11,6 +11,11 @@ body{
   margin: 0 auto;
 }
 
+.fa{
+  font-size: 2em;
+  margin: 0 2%;
+}
+
 .movie {
   width:100%;
   border-radius: 20px;
@@ -21,11 +26,15 @@ body{
 div {
   width: 75%;
   margin: 2% auto;
-  background: white;
+  background: rgba(255, 255, 255, 0.5);
   padding: 30px;
   border-radius: 4px;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+ul{
+  padding-left: 0;
 }
 
 td {
@@ -38,8 +47,7 @@ td {
 
 .list_inline {
     display: inline-block;
-    margin: 0 auto;
-    padding: 1%;
+    padding-right: 2%;
 }
 
 .movie_text {
