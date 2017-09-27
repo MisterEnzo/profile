@@ -1,0 +1,57 @@
+body{
+  background: url("http://www.webdesigndev.com/wp-content/uploads/2015/02/Subtle-Light-Tile-Pattern-Vol2.jpg") repeat;
+  font-family: Roboto;
+  line-height: normal;
+ }
+
+#profile {
+  width: 30%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.movie {
+  width:100%;
+  border-radius: 20px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+div {
+  width: 75%;
+  margin: 2% auto;
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list_inline {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.movie_text {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+/*.links{
+  width: ;
+}
+
+btn {
+  background-color
+}
+
+btn:hover {
+
+}
+*/
